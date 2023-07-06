@@ -12,3 +12,5 @@ class Rectangle {
 		System.out.println("Rectangle Of Remove.");
 		System.out.println("Rectangle Of Remove.");
 		System.out.println("Rectangle Of Remove.");
+}
+}
